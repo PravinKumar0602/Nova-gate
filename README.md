@@ -151,19 +151,5 @@ async function handleLogin(e) {
 
 ---
 
-## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
 
----
-
-## 🙌 Acknowledgements
-
-- [Google Fonts](https://fonts.google.com/) — Orbitron & Rajdhani
-- Neon UI inspiration from cyberpunk & sci-fi aesthetics
-
----
-
-<p align="center">
-  Made with ⚡ and neon lights
-</p>
